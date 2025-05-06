@@ -21,3 +21,9 @@ python scripts/split_by_silence.py <mp3_filename>
 ```
 python scripts/transcribe_chunks.py
 ```
+
+## Create dist folder to share with non programmers
+
+```
+python scripts/create_dist.py
+```
